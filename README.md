@@ -50,7 +50,7 @@ The database schema includes the following key entities:
 
 ### 2. Figma Prototype
 
-[Figma Design](Figma Design)
+[[Figma Design]](https://www.figma.com/proto/NQYanw8ICUGhR1I3zlnLX8/%D8%A8%D9%86%D9%8A%D8%A7%D9%86?node-id=28-578&t=9atetWs9fvnPx48c-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=28%3A578&show-proto-sidebar=1)
 
 ### 3. Project Flow
 
@@ -87,4 +87,8 @@ The project follows a structured workflow:
 - ✅ AI-powered recommendations
 - ✅ Secure authentication and authorization
 
+## Contributions
 
+| Team Member | Role | Responsibilities |
+|-------------|------|------------------|
+| Asrar Fallatah | Collaborator / Backend Developer | 🔹 Worked in (Task, Review, BuildRequest, Land, Payment) service controller and model<br>🔹 One AI endpoint (AiService for OpenAI integration including budget/time predictions and specialist auto-fill)<br>🔹 JUnit testing (unit tests for TaskService, PaymentService, ReviewService, LandService, BuildRequestService, etc.)<br>🔹 Figma (UI/UX design prototype linked in README.md) |
