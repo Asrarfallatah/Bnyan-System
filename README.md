@@ -64,16 +64,6 @@ The project follows a structured workflow:
 
 ---
 
-## Team Contributions
-
-| Member | Contribution |
-|--------|-------------|
-| **Mohammed Alrashedi** | User, UserRequest, Customer, Built, Meeting<br>ERD relations, Security, Email Configuration, Figma |
-| **Rand Abalkhail** | ProjectManager, Project, Specialist, SpecialistRequest, Domain<br>AI Configuration, Figma |
-| **Asrar Fallatah** | Task, Review, BuiltRequest, Land, Payment<br>JUnit testing, Moyasser, one AI endpoint, Figma |
-
----
-
 ## Features
 
 - ✅ Unified project management platform
@@ -86,6 +76,8 @@ The project follows a structured workflow:
 - ✅ Email notifications
 - ✅ AI-powered recommendations
 - ✅ Secure authentication and authorization
+
+---
 
 ## Contributions
 
